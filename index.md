@@ -20,7 +20,7 @@ My team, led by postdoc [Tian Lang](https://scholar.google.com/citations?user=bl
 
 I am working on the powerline communication team, to allow the lights to communicate with the user-tracking system. Once development is finished, a user will be able to pinpoint the relative location of a person in a room, with no RF transmitted.
 
-[The National Science Foundation Award is #1838702.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838702)
+The National Science Foundation Award can be found [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838702).
 
 ## Other Information
 
