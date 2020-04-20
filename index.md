@@ -1,15 +1,17 @@
-# Hi! I'm Nathaniel Ortiz.
+## Hi! I'm Nathaniel Ortiz.
 ### I'm a third year electrical engineering student at the University of California, Riverside
 
 I'm very passionate about electrical engineering, especially Signal Processing and RF. I also have extensive experience with embedded systems.
 
-## Projects
+## Current Projects
 I am currently a part of two projects, one led by a team of undergraduate students, and another led by a postdoc doing research.
 
 ### SARU
 SARU is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
 
 I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin on UCR's campus sometime this summer.
+
+We hope to provide a quick, easy to use recycling machine that pushes and motivates people to recycle.
 
 ### UC LIGHT
 [UC LIGHT](https://www.uclight.ucr.edu/), or the Ubiquitous Communication by Light center, is a research team lead by Dr. Albert Wang at the department of Electrical and Computer Engineering at the University of California, Riverside.
