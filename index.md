@@ -7,7 +7,7 @@ I'm very passionate about electrical engineering, especially Signal Processing a
 I am currently a part of two projects, one led by a team of undergraduate students, and another led by a postdoc doing research.
 
 ### SARU
-SARU is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
+[SARU](https://www.linkedin.com/company/saru-recycling/about/) is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
 
 I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin on UCR's campus sometime this summer.
 
