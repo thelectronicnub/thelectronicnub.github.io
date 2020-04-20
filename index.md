@@ -14,13 +14,13 @@ I'm currently leading the electrical and software development for this project. 
 We hope to provide a quick, easy to use recycling machine that pushes and motivates people to recycle.
 
 ### UC LIGHT
-[UC LIGHT](https://www.uclight.ucr.edu/), or the Ubiquitous Communication by Light center, is a research team lead by Dr. Albert Wang at the department of Electrical and Computer Engineering at the University of California, Riverside.
+[UC LIGHT](https://www.uclight.ucr.edu/), or the Ubiquitous Communication by Light center, is a research team lead by [Dr. Albert Wang](https://intra.ece.ucr.edu/~aw/) at the department of Electrical and Computer Engineering at the University of California, Riverside.
 
-My team, led by postdoc Tian Lang, is developing a system for communication using visible light inside hospitals. Due to hospital's strict requirements and limits on RF emissions, we are working to develop a user-tracking system that works exclusively with the pre-existing lightbulbs already installed in the ceiling. 
+My team, led by postdoc [Tian Lang](https://scholar.google.com/citations?user=blB4mfYAAAAJ&hl=en), is developing a system for communication using visible light inside hospitals. Due to hospital's strict requirements and limits on RF emissions, we are working to develop a user-tracking system that works exclusively with the pre-existing lightbulbs already installed in the ceiling. 
 
 I am working on the powerline communication team, to allow the lights to communicate with the user-tracking system. Once development is finished, a user will be able to pinpoint the relative location of a person in a room, with no RF transmitted.
 
-The National Science Foundation Award is #1838702.
+[The National Science Foundation Award is #1838702.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838702)
 
 ## Other Information
 
