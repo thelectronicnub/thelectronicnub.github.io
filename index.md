@@ -1,4 +1,4 @@
-## Hi! I'm Nathaniel Ortiz.
+# Hi! I'm Nathaniel Ortiz.
 ### I'm a third year electrical engineering student at the University of California, Riverside
 
 I'm very passionate about electrical engineering, especially Signal Processing and RF. I also have extensive experience with embedded systems.
