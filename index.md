@@ -9,13 +9,13 @@ I am currently a part of two projects, one led by a team of undergraduate studen
 ### SARU
 [SARU](https://sarurecycling.com/) is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
 
-I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin on UCR's campus sometime during Fall 2020.
+I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin on UCR's campus sometime during Q4 2020.
 
 We hope to provide a quick, easy to use recycling machine that pushes and motivates people to recycle.
 
 SARU was also recently awarded 2nd place at IEEE's SusTech Student Poster Conference. You can take a look at our poster [here](https://site.ieee.org/sustech/2020/sustech-2020-poster-contest-winners/). You can also [connect with us on LinkedIn](https://www.linkedin.com/company/saru-recycling/about/).
 
-**UCR STUDENTS:** We are looking for CS/CE majors who are interested in web services/app development to create a companion app for SARU's telemetry and user services. If you are interested in being a part of SARU, and have relevant experience, please contact me via email or connect with me on LinkedIn.
+**UCR STUDENTS:** We are looking for CS/CE majors who are interested in our venture, in order to further develop our internal software and object recognition. If you have experience with embedded systems, full stack development, and/or ML/object recognition, please contact me via email or connect with me on LinkedIn.
 
 ### UC LIGHT
 [UC LIGHT](https://www.uclight.ucr.edu/), or the Ubiquitous Communication by Light center, is a research team led by [Dr. Albert Wang](https://intra.ece.ucr.edu/~aw/) at the department of Electrical and Computer Engineering at the University of California, Riverside.
