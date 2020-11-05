@@ -6,8 +6,8 @@ I'm very passionate about electrical engineering, especially Signal Processing a
 ## Current Projects
 I am currently a part of two projects, one led by a team of undergraduate students, and another led by a postdoc doing research.
 
-### SARU
-[SARU](https://sarurecycling.com/) is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
+### Saru
+[Saru](https://sarurecycling.com/) is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
 
 I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin Q4 2020 - Q1 2021 at Goodwin's Organics, a grocery store in Riverside, CA.
 
