@@ -9,11 +9,11 @@ I am currently a part of two projects, one led by a team of undergraduate studen
 ### Saru
 [Saru](https://sarurecycling.com/) is a student-led initiative to incentivize recycling. We aim to design a machine that automatically identifies, sorts, and incentivizes the user to recycle more. We do this by immediately providing a cash refund to the user when they recycle.
 
-I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin Q4 2020 - Q1 2021 at Goodwin's Organics, a grocery store in Riverside, CA.
+I'm currently leading the electrical and software development for this project. We are currently building a prototype, with testing scheduled to begin Q2 2021 at Goodwin's Organics, a grocery store in Riverside, CA.
 
 We hope to provide a quick, easy to use recycling machine that pushes and motivates people to recycle.
 
-SARU was also recently awarded 2nd place at IEEE's SusTech Student Poster Conference. You can take a look at our poster [here](https://site.ieee.org/sustech/2020/sustech-2020-poster-contest-winners/). You can also [connect with us on LinkedIn](https://www.linkedin.com/company/saru-recycling/about/).
+Saru was recently accepted into Blackstone's Launchpad fellowship. We are also a Top 7 finalist with Blackstone Launchpad's startup grind. You can also [connect with us on LinkedIn](https://www.linkedin.com/company/saru-recycling/about/).
 
 **UCR STUDENTS:** We are looking for CS/CE majors who are interested in our venture, in order to further develop our internal software and object recognition. If you have experience with embedded systems, full stack development, and/or ML/object recognition, please contact me via email or connect with me on LinkedIn.
 
