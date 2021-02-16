@@ -17,6 +17,11 @@ SARU was also recently awarded 2nd place at IEEE's SusTech Student Poster Confer
 
 **UCR STUDENTS:** We are looking for CS/CE majors who are interested in our venture, in order to further develop our internal software and object recognition. If you have experience with embedded systems, full stack development, and/or ML/object recognition, please contact me via email or connect with me on LinkedIn.
 
+### DoD Research Center
+[The DoD Center of Excellence](https://news.ucr.edu/articles/2020/10/02/uc-riverside-receives-75-million-improve-large-scale-networked-systems) at UCR was established during Winter 2021. I am currently working with [Dr. Yingbo Hua](https://scholar.google.com/citations?user=RD6AdlcAAAAJ&hl=en&oi=ao), primarily researching digital communication methods and compression methods.
+
+## Previous Projects
+
 ### UC LIGHT
 [UC LIGHT](https://www.uclight.ucr.edu/), or the Ubiquitous Communication by Light center, is a research team led by [Dr. Albert Wang](https://intra.ece.ucr.edu/~aw/) at the department of Electrical and Computer Engineering at the University of California, Riverside.
 
